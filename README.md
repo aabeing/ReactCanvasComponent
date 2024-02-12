@@ -3,6 +3,9 @@ This project is an attempt to learn HTML5 canvas and to run the particles effect
 Insipred from:
 https://www.youtube.com/watch?v=EO6OkltgudE&list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
+![Particles-img](https://github.com/aabeing/ReactCanvasComponent/assets/49649994/ecdfeffc-724a-4d14-8b5a-d8d84764bb72)
+
+
 # Getting Started with ReactCanvasComponent
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
