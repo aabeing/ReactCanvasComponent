@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+This project is an attempt to learn HTML5 canvas and to run the particles effect light weight as a reactJS component
+
+Insipred from:
+https://www.youtube.com/watch?v=EO6OkltgudE&list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
+
+# Getting Started with ReactCanvasComponent
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
